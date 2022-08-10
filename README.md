@@ -1,2 +1,2 @@
 # resume website
- Mini Project for Personal Site while learning web dev
+https://usmangill-ug.github.io/resume-website/
